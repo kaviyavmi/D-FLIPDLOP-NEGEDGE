@@ -64,7 +64,7 @@ endmodule
 ![WhatsApp Image 2024-12-23 at 14 15 47_c2698c1f](https://github.com/user-attachments/assets/867dbb2c-814e-4e7e-971e-bb25b7509fd9)
 
 
-**TIMING DIGRAMS FOR FLIP FLOPS**
+**TIMING DIAGRAMS FOR FLIP FLOPS**
 
 ![WhatsApp Image 2024-12-23 at 14 15 50_febfc813](https://github.com/user-attachments/assets/fec8e065-f0c6-405e-8c41-109341f838b4)
 
